@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dip">
+    <TextView
+        android:id="@+id/item_tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:maxLines="3"
+        android:textSize="12sp"
+        android:paddingLeft="2dip"
+        android:paddingRight="2dip"
+        android:background="#f6f6f6"
+        />
+</LinearLayout>
